@@ -1,0 +1,74 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Beginner Guitar Lessons",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Acoustic guitar classes for complete beginners.",
+    "image": "https://i.postimg.cc/jdW57H4m/Gemini-Generated-Image-qicwsiqicwsiqicw.png",
+    "category": "Music"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Spoken English Practice",
+    "providerName": "Sara Hossain",
+    "providerEmail": "sara@skillswap.com",
+    "price": 10,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Conversational English sessions for non-native speakers.",
+    "image": "https://i.postimg.cc/4NKd96QL/Gemini-Generated-Image-pafrevpafrevpafr.png",
+    "category": "Language"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Yoga for Flexibility",
+    "providerName": "Maya Rahman",
+    "providerEmail": "maya@skillswap.com",
+    "price": 12,
+    "rating": 4.7,
+    "slotsAvailable": 4,
+    "description": "Gentle vinyasa flow to improve mobility and calm the mind.",
+    "image": "https://i.postimg.cc/ZYsnn7pn/Gemini-Generated-Image-ithxyfithxyfithx.png",
+    "category": "Wellness"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Intro to JavaScript",
+    "providerName": "Tanvir Ahmed",
+    "providerEmail": "tanvir@skillswap.com",
+    "price": 15,
+    "rating": 4.9,
+    "slotsAvailable": 6,
+    "description": "Hands-on JS basics for absolute beginners.",
+    "image": "https://i.postimg.cc/bYVrrCkd/Gemini-Generated-Image-qs578lqs578lqs57.png",
+    "category": "Programming"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Portrait Photography",
+    "providerName": "Nadia Karim",
+    "providerEmail": "nadia@skillswap.com",
+    "price": 18,
+    "rating": 4.5,
+    "slotsAvailable": 2,
+    "description": "Natural light portraits and editing workflow.",
+    "image": "https://i.postimg.cc/L4Q55CL6/Gemini-Generated-Image-e0fe9je0fe9je0fe.png",
+    "category": "Art"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Cooking: Bangla Comfort Food",
+    "providerName": "Rafiul Islam",
+    "providerEmail": "rafi@skillswap.com",
+    "price": 9,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Tasty, easy homestyle recipes and kitchen tips.",
+    "image": "https://i.postimg.cc/XN1qqHdN/Gemini-Generated-Image-rrnr65rrnr65rrnr.png",
+    "category": "Cooking"
+  }
+]
