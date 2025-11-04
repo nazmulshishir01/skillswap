@@ -1,0 +1,32 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --color-primary: #1d4ed8;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.navbar > div {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.menu-horizontal {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-1 {
+  flex: 1 1 0%;
+}
+
+.flex-none {
+  flex: none;
+}
