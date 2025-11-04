@@ -31,5 +31,5 @@ To run the project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/programming-hero-web-course2/b12-a9-firesheild-nazmulshishir01.git
+   git clone https://github.com/nazmulshishir01/skillswap.git
    ```
