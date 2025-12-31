@@ -13,7 +13,6 @@ SkillSwap makes local skill exchange simple and accessible. Users can explore di
 ---
 
 ## 🖼️ Screenshots
-> Add 1–3 screenshots for a more professional README.
 
 | Home | Skill Details |
 |------|--------------|
