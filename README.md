@@ -1,4 +1,4 @@
-# SkillSwap — Local Skill Exchange Platform 🤝🎸📚
+# SkillSwap — Local Skill Exchange Platform
 
 **SkillSwap** is an interactive platform that allows individuals to offer, learn, and trade skills locally. Users can browse various skills in their neighborhood, view details, book sessions, and connect with skill providers for learning opportunities — whether it's guitar, English speaking, or coding help.
 
