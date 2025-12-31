@@ -1,35 +1,90 @@
-# SkillSwap - A Local Skill Exchange Platform
+# SkillSwap — Local Skill Exchange Platform 🤝🎸📚
 
-SkillSwap is an interactive platform that allows individuals to offer, learn, and trade skills locally. Users can browse various skills available in their neighborhood, rate experiences, and connect with skill providers for learning opportunities. Whether you're looking to learn guitar, practice English, or get coding help, SkillSwap is your one-stop destination for all your learning needs.
+**SkillSwap** is an interactive platform that allows individuals to offer, learn, and trade skills locally. Users can browse various skills in their neighborhood, view details, book sessions, and connect with skill providers for learning opportunities — whether it's guitar, English speaking, or coding help.
 
-## Demo Link
+🌐 **Live Demo:** https://skillswap-4d128.web.app/  
+💻 **GitHub Repo:** https://github.com/nazmulshishir01/skillswap  
 
-- [SkillSwap Live Demo](https://skillswap-4d128.web.app)
+---
 
-## Features
+## 📌 Project Overview
+SkillSwap makes local skill exchange simple and accessible. Users can explore different skill listings, check pricing/ratings/availability, and book sessions with providers. The platform focuses on a clean UI, smooth animations, and a responsive experience across all devices.
 
-- **User Authentication**: Secure sign up, login, and Google OAuth login functionality.
-- **Skill Listings**: Browse a wide variety of skills like music, language, coding, and more.
-- **Profile Management**: Users can update their profiles and view their own information.
-- **Skill Details**: Detailed skill pages with pricing, ratings, and availability.
-- **Book Session**: Easily book a session with a skill provider by filling out a form.
-- **Responsive Design**: Fully responsive across all devices (desktop, tablet, mobile).
-- **Animations**: Subtle animations using AOS and Swiper for smooth interactions.
-- **Password Reset**: Forgot password feature to help users reset their credentials.
-- **Toast Notifications**: Instant feedback on actions using react-hot-toast.
+---
 
-## Key Technologies
+## 🖼️ Screenshots
+> Add 1–3 screenshots for a more professional README.
 
-- **Frontend**: React, React Router, Tailwind CSS
-- **Authentication**: Firebase Authentication (Email/Password, Google)
-- **Animation**: AOS (Animate On Scroll), Swiper.js
-- **Form Validation**: Custom form validation for signup and password reset
+| Home | Skill Details |
+|------|--------------|
+| ![Home](https://i.ibb.co.com/SD0P8mtW/home-1.png) | ![Skill Details](https://i.ibb.co.com/SXs5W6x6/skill-details.png) |
 
-## Installation
 
-To run the project locally:
+**How to add screenshots**
+1. Create a folder named `screenshots/` in the repo root  
+2. Put screenshots there (example names: `home.png`, `details.png`, `booking.png`)  
+3. Update the image links below
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/nazmulshishir01/skillswap.git
-   ```
+![SkillSwap Preview](./screenshots/home.png)
+
+<!-- Optional -->
+<!-- ![Skill Details](./screenshots/details.png) -->
+<!-- ![Booking](./screenshots/booking.png) -->
+
+---
+
+## 🧰 Technologies Used
+
+### Frontend
+- **React**
+- **React Router DOM**
+- **Tailwind CSS**
+- JavaScript (ES6+)
+
+### Authentication
+- **Firebase Authentication** (Email/Password + Google OAuth)
+
+### Animations & UI
+- **AOS (Animate On Scroll)**
+- **Swiper.js**
+
+---
+
+## ⭐ Core Features
+- ✅ **User Authentication** — Secure signup/login + Google OAuth via Firebase
+- ✅ **Skill Listings** — Browse a wide variety of skills (music, language, coding, etc.)
+- ✅ **Skill Details Page** — View pricing, ratings, and availability
+- ✅ **Profile Management** — Users can view and update their profile information
+- ✅ **Book Session** — Book a session with a provider using a simple booking form
+- ✅ **Password Reset** — Forgot password flow for account recovery
+- ✅ **Toast Notifications** — Instant feedback using toast messages
+- ✅ **Animations & Sliders** — Smooth UI interactions using AOS & Swiper
+- ✅ **Fully Responsive Design** — Works well on mobile, tablet, and desktop
+
+---
+
+## 📦 Dependencies Used (Notable)
+> Your complete dependency list is in `package.json`.  
+Below are the most important libraries used in this project:
+
+- `react`, `react-dom`
+- `react-router-dom`
+- `firebase`
+- `tailwindcss`
+- `aos`
+- `swiper`
+- `react-hot-toast`
+
+---
+
+## 🚀 Run Locally (Step-by-Step)
+
+### ✅ Prerequisites
+- Node.js (LTS recommended)
+- npm (comes with Node)
+- Firebase Project (for Authentication)
+
+### 1) Clone the repository
+```bash
+git clone https://github.com/nazmulshishir01/skillswap.git
+cd skillswap
