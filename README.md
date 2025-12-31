@@ -19,18 +19,6 @@ SkillSwap makes local skill exchange simple and accessible. Users can explore di
 | ![Home](https://i.ibb.co.com/SD0P8mtW/home-1.png) | ![Skill Details](https://i.ibb.co.com/SXs5W6x6/skill-details.png) |
 
 
-**How to add screenshots**
-1. Create a folder named `screenshots/` in the repo root  
-2. Put screenshots there (example names: `home.png`, `details.png`, `booking.png`)  
-3. Update the image links below
-
-![SkillSwap Preview](./screenshots/home.png)
-
-<!-- Optional -->
-<!-- ![Skill Details](./screenshots/details.png) -->
-<!-- ![Booking](./screenshots/booking.png) -->
-
----
 
 ## 🧰 Technologies Used
 
